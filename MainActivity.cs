@@ -35,6 +35,7 @@ namespace DesignComponent
 			};
 			 
 			fab =  FindViewById<FloatingActionButton>(Resource.Id.fab); 
+			//Floating action button
 			fab.Click += (sender, args) =>
 			{
 				Toast.MakeText(this,GetString(Resource.String.fab_clicked),ToastLength.Short).Show();
