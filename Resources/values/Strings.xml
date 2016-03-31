@@ -2,8 +2,11 @@
 <resources> 
 	<string name="app_name">DesignComponent</string>
 	<string name="no_internet">No internet connection!</string>
-	<string name="retry">Retry</string>
+	<string name="deleted">Records deleted!</string>
+	<string name="retry">RETRY</string>
+	<string name="undo">UNDO</string>
 	<string name="simple_snackbar">customized snackbar</string>
 	<string name="callback_snackbar">Callback snackbar</string>
 	<string name="connected_internet">You are now connected!</string>
+    <string name="fab_clicked">Floating Action Button clicked!</string>
 </resources>
