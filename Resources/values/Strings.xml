@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+	<string name="app_name">DesignComponent</string>
+	<string name="no_internet">No internet connection!</string>
+	<string name="retry">Retry</string>
+	<string name="simple_snackbar">customized snackbar</string>
+	<string name="callback_snackbar">Callback snackbar</string>
+	<string name="connected_internet">You are now connected!</string>
+</resources>
