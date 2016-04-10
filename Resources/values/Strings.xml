@@ -5,8 +5,10 @@
 	<string name="deleted">Records deleted!</string>
 	<string name="retry">RETRY</string>
 	<string name="undo">UNDO</string>
-	<string name="simple_snackbar">customized snackbar</string>
-	<string name="callback_snackbar">Callback snackbar</string>
+    <string name="ok">OK</string>
+	<string name="simple_snackbar">Default snackbar</string>
+	<string name="callback_snackbar">Customized snackbar</string>
 	<string name="connected_internet">You are now connected!</string>
     <string name="fab_clicked">Floating Action Button clicked!</string>
+    <string name="FAB">Floating Action Button</string>
 </resources>
